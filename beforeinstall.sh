@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #_Change_Working_Directory
-cd /home/ec2-user/server
+cd /home/ec2-user/server1
 
 #_Update_&_Set_Node_Version
 curl -sL https://rpm.nodesource.com/setup_14.x | sudo -E bash -
